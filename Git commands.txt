@@ -1,0 +1,11 @@
+git init
+
+git log
+
+git add
+
+git status
+
+git commit -m "Message about changes in the file and directories"
+
+
