@@ -8,4 +8,14 @@ git status
 
 git commit -m "Message about changes in the file and directories"
 
+git commit -a 
+
+git commit -a -m "Message about changes in the file and directories"
+
+git show
+
+git log --stat
+
+git diff
+
 
